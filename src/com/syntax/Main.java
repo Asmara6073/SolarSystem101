@@ -10,5 +10,15 @@ SolarSystem FactorX=new SolarSystem();
         FactorX.Moon="4";
         FactorX.Planet="2";
         FactorX.Stars="10000";
+
+        //adding features to our sun
+
+        FeatureSun Xfact=new FeatureSun();
+        Xfact.color="green";
+        Xfact.radius="10000000000";
+        Xfact.heat="42989038429038492";
+
+
+
     }
 }
