@@ -21,7 +21,7 @@ SolarSystem FactorX=new SolarSystem();
         //adding the features for star in the solar system
 
         FeatureStars FacX=new FeatureStars();
-        FacX.color=green;
+        FacX.color="green";
         FacX.radius="2423424234 km";
         FacX.size="34424234234234 m";
 
