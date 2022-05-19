@@ -25,6 +25,12 @@ SolarSystem FactorX=new SolarSystem();
         FacX.radius="2423424234 km";
         FacX.size="34424234234234 m";
 
+        //adding planet 2
+
+            Planet2 Olso = new Planet2();
+            Olso.name="Ozhan";
+            Olso.size="694254km";
+            Olso.color="pink";
 
 
     }
